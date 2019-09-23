@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaxainooz.cepone.net/sitemap.xml
